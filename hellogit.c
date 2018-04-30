@@ -3,7 +3,7 @@
 
 int main {
 
-  printf("Hello github test_branch conflict edit in master branch");
+  printf("Hello github test_branch in test branch");
   
   return 0;
 }
