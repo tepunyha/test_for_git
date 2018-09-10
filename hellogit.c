@@ -6,7 +6,7 @@ int main {
   printf("Hello github test_branch in master branch 004_test2");
 
 
-	printf("7th rebase test in thdabd");
+	printf("8th rebase test in thdabd");
 
 
   return 0;
