@@ -3,7 +3,7 @@
 
 int main {
 
-  printf("Hello github test_branch in test branch v004 test 2");
+  printf("Hello github test_branch in master branch 004_test2 merged");
   
   return 0;
 }
