@@ -1,7 +1,7 @@
 #incldue <stdio.h>
 #include <string.h>
 
-/* version 0.1n */
+/* version 0.2n */
 
 int main {
 
