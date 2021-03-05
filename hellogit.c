@@ -1,7 +1,7 @@
 #incldue <stdio.h>
 #include <string.h>
 
-/* version 0.2 */
+/* version 0.3 */
 
 int main {
 
@@ -10,6 +10,7 @@ dfad
 
 	printf("11d again in tdfadfasdvanch");
 
+  printf("move to test new");
 
   return 0;
 }

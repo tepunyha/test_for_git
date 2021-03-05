@@ -1,3 +1,9 @@
 [submodule "ff/hello-world"]
 	path = ff/hello-world
 	url = git@github.com:tepunyha/hello-world.git
+[submodule "ff/trygit"]
+	path = ff/trygit
+	url = https://github.com/tepunyha/trygitignore.git
+[submodule "bb"]
+	path = bb
+	url = https://github.com/tepunyha/hello-world.git
