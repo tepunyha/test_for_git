@@ -1,6 +1,8 @@
 #incldue <stdio.h>
 #include <string.h>
 
+/* version 0.1 */
+
 int main {
 
   printf("Hello github test_branch in master branch 004_test2");
